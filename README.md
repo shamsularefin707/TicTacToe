@@ -20,14 +20,8 @@ This project was created as part of a programming assignment to practice fundame
 
 ---
 
-## ▶️ How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/tictactoe.git
-
-
-<h2>Example Gameplay</h2>
+##Example Gameplay
  1 | 2 | 3
 ---+---+---
  4 | 5 | 6
@@ -35,4 +29,15 @@ This project was created as part of a programming assignment to practice fundame
  7 | 8 | 9
 
 Player X, enter your move (1-9):
+
+---
+
+
+## ▶️ How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/tictactoe.git
+
+
 
