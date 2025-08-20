@@ -27,3 +27,12 @@ This project was created as part of a programming assignment to practice fundame
    git clone https://github.com/your-username/tictactoe.git
 
 
+<h2>Example Gameplay</h2>
+ 1 | 2 | 3
+---+---+---
+ 4 | 5 | 6
+---+---+---
+ 7 | 8 | 9
+
+Player X, enter your move (1-9):
+
