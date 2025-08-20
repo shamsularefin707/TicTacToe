@@ -21,7 +21,7 @@ This project was created as part of a programming assignment to practice fundame
 ---
 
 
-##Example Gameplay
+##Example Gameplay:  <br> <br>
  1 | 2 | 3  <br>
 ---+---+--- <br>
  4 | 5 | 6  <br>
