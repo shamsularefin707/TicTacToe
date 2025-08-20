@@ -23,9 +23,9 @@ This project was created as part of a programming assignment to practice fundame
 
 ##Example Gameplay:  <br> <br>
  1 | 2 | 3  <br>
----+---+--- <br>
+--------- <br>
  4 | 5 | 6  <br>
----+---+--- <br>
+--------- <br>
  7 | 8 | 9  <br>
 
 Player X, enter your move (1-9):
