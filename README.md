@@ -22,11 +22,11 @@ This project was created as part of a programming assignment to practice fundame
 
 
 ##Example Gameplay
- 1 | 2 | 3
----+---+---
- 4 | 5 | 6
----+---+---
- 7 | 8 | 9
+ 1 | 2 | 3  <br>
+---+---+--- <br>
+ 4 | 5 | 6  <br>
+---+---+--- <br>
+ 7 | 8 | 9  <br>
 
 Player X, enter your move (1-9):
 
